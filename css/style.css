@@ -99,19 +99,20 @@
 	
 	font-size:18px;
 	padding-right:4%;
+		color:#24AEED;
 
 		
 }
 .topbar_heading h3{	font-size:26px;
-	color:#61acec;
+	color:#24AEED;
 	
 		
 }
-.topbar_heading p{	font-size:20px;
-	color:#61acec;
+/*.topbar_heading p{	font-size:20px;
+	color:#24AEED;
 	
 		
-}
+}*/
 
 
 .topbar_heading img{	height:auto;
