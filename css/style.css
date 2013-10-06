@@ -141,8 +141,9 @@ color:#00b0e9;
 }
 .topbar_heading p{	font-size:16px; color:#00b0e9;
 	 margin:0;
+	 line-height: 1.5em;
 	
-	min-height: 9em;
+	min-height: 7em;
 	
 		
 }
@@ -153,6 +154,7 @@ color:#00b0e9;
 	width:auto;	
 	display: block;
 	margin-left: 10%;
+	margin-bottom: 1%;
 }
 
 
