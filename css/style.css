@@ -96,6 +96,7 @@
 	background-color: #f7f7f7;
 	/*padding-bottom: .5%;*/
 		overflow-x:hidden;
+		overflow-y:hidden;
 
 	
 	
@@ -104,6 +105,8 @@
 	
 }
 .container_topbar h2{font-weight:100;
+	color: #f1f0ef;
+
 	margin-top:5px; margin-bottom:5px;}
 
 .container_topbar_heading{ width:100%;	
@@ -168,6 +171,7 @@ color:#00b0e9;
     margin-left: none;
     font-size:16px;
     line-height: 1.5em;
+    margin-bottom: 0;
 }
 
 
