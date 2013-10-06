@@ -71,6 +71,11 @@
 	text-decoration: none;
 	
 }
+.container_navbar a:hover{color:#0000FF;}
+.container_navbar a.inactive{color:#00008B;}
+
+
+
 
 
 .container_topbar_back{ 

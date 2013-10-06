@@ -207,11 +207,14 @@
 
 $(function(){
 	$(".nav").click(function() {
+		$('.nav').removeClass('inactive');
 
 
                 $('html, body').animate({
              scrollTop: $($(this).attr('href')).offset().top
          }, 1000);
+                $(this).addClass('inactive');
+
          return false;
 	});
 });
