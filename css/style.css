@@ -107,20 +107,22 @@
 	display:inline-block;
 	max-width:270px;	
 
-	
-	
 
-		color:#24AEED;
+	
+	
+color:#00b0e9;
+		/*:rgb(0,176,233);*/
+
 
 		
 }
 .topbar_heading h3{	font-size:28px;
-	color:#24AEED;
+	
 	
 		
 }
 .topbar_heading p{	font-size:16px;
-	color:#24AEED;
+	
 	min-height: 6em;
 	
 		
