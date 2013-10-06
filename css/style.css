@@ -104,7 +104,7 @@
 	
 }
 .container_topbar h2{font-weight:100;
-	margin-top:12px; margin-bottom:12px;}
+	margin-top:5px; margin-bottom:5px;}
 
 .container_topbar_heading{ width:100%;	
 	
@@ -192,8 +192,9 @@ color:#00b0e9;
 img.topseparator{
 	position:relative;
 	display: block;
+	margin-top: 1%;
 
-	margin-top: -6px;
+
 	z-index:1;
 }
 
