@@ -41,7 +41,7 @@
 	float:left;
 	
 	margin-left:80px;		
-	width:30%;
+	
 	height:105px;
 	vertical-align: middle;
 
@@ -50,10 +50,10 @@
 }
 
 .container_navbar{
-	float: right;
-	margin-right: 60px;
+	float:right;
+	margin-right:30px;
 	
-	margin-top :3%;
+	margin-top:3%;
 	
 
 	
