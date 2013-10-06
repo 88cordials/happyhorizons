@@ -10,6 +10,8 @@
 	height:100%;
 	margin:0 auto;
 	padding: 0px;
+
+
 	
 	
 	
@@ -74,6 +76,7 @@
 	padding:0px;
 	background-color: #f7f7f7;
 	padding-bottom: .5%;
+		overflow-x:hidden;
 	
 	border-bottom: 2px solid #d4d4d4;
 	
@@ -95,7 +98,7 @@
 	color:#fe7861;
 	font-style: bold;
 	display:inline-block;
-	width:280px;	
+	width:270px;	
 
 	
 	font-size:18px;
