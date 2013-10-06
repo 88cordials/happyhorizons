@@ -9,7 +9,7 @@
 	width:1200px;
 	height:100%;
 	margin:0 auto;
-	padding: 0px;
+	padding:0px;
 
 
 	
@@ -39,9 +39,10 @@
 }
 .container_logo{
 	float: left;
-	margin-left:40px; 	
+	margin-left: 65px;
+		
 	width:30%;
-	height:45%;
+	height:105px;
 	vertical-align: middle;
 
 	
@@ -218,7 +219,7 @@
 	text-align: left;
 
 	
-	width:1000px;
+	width:1200px;
 	padding:0px;
 	color:#62adec;
 	
@@ -228,8 +229,8 @@
 }
 .container_aboutus p{color:#62adec;}
 .container_aboutus h5{color:#9f9f9f;font-style: italic;}
-.container_aboutus h6{color:#565656;}
-.container_aboutus img{display:block;width:1000px;}
+.container_aboutus h6{color:#565656;font-size: 24px;}
+.container_aboutus img{display:block;width:1200px;}
 
 
 
@@ -255,12 +256,13 @@
 	text-align: left;
 	font-size: 30px;
 	
-	width:100%;
+	width:1200px;
 	padding: 0px;
+	margin:0 auto;
 	
 	
 	
-	margin-left:40px; 
+	 
 	
 	
 }.container_partner p{ color:#62adec;}
@@ -286,6 +288,7 @@
 	padding-top: 2%;
 	padding-bottom: 2%;
 	font-size: 20px;	
+
 }
 
 
@@ -310,7 +313,7 @@
 	display:inline-block;
 	float:left;
 	margin-top:2%;
-	margin-left:6%;
+	margin-left:60px;
 	
 	padding:0px;	
 	text-align: left;
