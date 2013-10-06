@@ -34,13 +34,14 @@
 	border-top: 10px solid #61acec;
 	z-index:3;
 	background-color:rgba(255,255,266,0.9);
+	display: inline-block;
 
 	
 }
 .container_logo{
 	float:left;
 	
-	margin-left:80px;		
+	margin-left:60px;		
 	
 	height:105px;
 	vertical-align: middle;
@@ -51,7 +52,7 @@
 
 .container_navbar{
 	float:right;
-	margin-right:30px;
+	
 	
 	margin-top:3%;
 	
