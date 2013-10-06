@@ -7,7 +7,7 @@
 
  <link rel="stylesheet" href="css/style.css" />
  <link rel="stylesheet" href="css/modal.css" />
- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
 <script type="text/javascript" src="//use.typekit.net/joy7gne.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -198,7 +198,19 @@
 
 			
 </div>
+<script>
+$(function(){
+	$(".container_navbar a").click(function() {
 
+
+                $('html, body').animate({
+             scrollTop: $($(this).attr('href')).offset().top
+         }, 3000);
+         return false;
+	});
+});
+ 
+</script>
 
 
 
